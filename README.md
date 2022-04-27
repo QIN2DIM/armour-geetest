@@ -1,6 +1,10 @@
 # GeeTest Challenger
 
-通过观看 [QIN2DIM's Challenger](https://www.wolai.com/pbhA77godFuXjofA1QC7JG?theme=light) 了解本项目的工作范围
+通过观看 [QIN2DIM's Fingers](https://www.wolai.com/pbhA77godFuXjofA1QC7JG?theme=light) 了解本项目的工作范围
+
+
+https://user-images.githubusercontent.com/62018067/165540682-9321ebee-a02f-4988-8616-b14e8acb5113.mp4
+
 
 ## Introduction
 
